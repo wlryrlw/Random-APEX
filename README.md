@@ -11,12 +11,12 @@
 pip install -r requirements.txt
 ```
 
-## 运行
-# 命令行
+## 运行（二选一）
+### 命令行
 ```powershell
 python apex_randomizer.py
 ```
-# 运行 .bat文件
+### 运行 .bat文件
 
 ## 功能
 
